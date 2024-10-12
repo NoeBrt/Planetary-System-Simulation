@@ -1,7 +1,7 @@
 # Planetary System Simulation
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae5e4a5a-2119-4337-9de9-3fa8ebf36fbb" alt="output">
+  <img src="https://github.com/user-attachments/assets/d3812e4e-5618-4bae-bda5-64cff48187f3" alt="output">
 </p>
 
 This is a simulation program that allows users to create and explore a virtual planetary system. Users can add planets that orbit around a central sun and even add moons that orbit around these planets. Additionally, the simulation provides the flexibility to modify various parameters associated with the orbits.
